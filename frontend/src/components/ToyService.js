@@ -8,7 +8,7 @@ class ToyService {
      .then(function(response) {
        console.log(response);
      })
-     .catch(function (err) {
+     .catch(function (error) {
        console.log(error)
      });
   }

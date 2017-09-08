@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ToyServive from './ToyServive';
+import ToyService from './ToyService';
 
 class AddToy extends Component {
   constructor(props) {
